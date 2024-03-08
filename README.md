@@ -22,10 +22,10 @@
 
 
 ## 关联书籍
-<a href="https://press.ustc.edu.cn" target="_blank">
+<a href="链接" target="_blank">
 <img src="https://imglink.win/image/2024/03/08/a7Exs.jpeg" alt="和Wakaba酱一起学Git" width="200" /></a>
 
-<a href="https://press.ustc.edu.cn" target="_blank">《和Wakaba酱一起学Git》</a>
+<a href="链接" target="_blank">《和Wakaba酱一起学Git》</a>
 
 出版社：中国科学技术大学出版社
 
@@ -49,9 +49,9 @@
 
 ## 还有关联资源！Wakaba酱系列
 
-<a href="https://press.ustc.edu.cn" target="_blank"><img class="aligncenter size-large wp-image-480" src="https://imglink.win/image/2024/03/08/a7s4I.jpeg" alt="和Wakaba酱一起学网站制作" width="200" /></a>
+<a href="连接" target="_blank"><img class="aligncenter size-large wp-image-480" src="https://imglink.win/image/2024/03/08/a7s4I.jpeg" alt="和Wakaba酱一起学网站制作" width="200" /></a>
 
-<a href="https://press.ustc.edu.cn" target="_blank">《和Wakaba酱一起学网站制作》 </a>
+<a href="链接" target="_blank">《和Wakaba酱一起学网站制作》 </a>
 
 出版社：中国科学技术大学出版社
 
