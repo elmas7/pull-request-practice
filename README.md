@@ -23,7 +23,7 @@
 
 ## 关联书籍
 <a href="https://press.ustc.edu.cn" target="_blank">
-<img src="http://webdesign-manga.com/wp-content/uploads/2017/03/C4XnLc6UoAAJNrS-212x300.jpg" alt="和Wakaba酱一起学Git" width="200" /></a>
+<img src="https://imglink.win/image/2024/03/08/a7QXu.jpeg" alt="和Wakaba酱一起学Git" width="200" /></a>
 
 <a href="https://press.ustc.edu.cn" target="_blank">《和Wakaba酱一起学Git》</a>
 
@@ -49,7 +49,7 @@
 
 ## 还有关联资源！Wakaba酱系列
 
-<a href="https://press.ustc.edu.cn" target="_blank"><img class="aligncenter size-large wp-image-480" src="http://webdesign-manga.com/wp-content/uploads/2016/06/image-721x1024.jpeg" alt="和Wakaba酱一起学网站制作" width="200" /></a>
+<a href="https://press.ustc.edu.cn" target="_blank"><img class="aligncenter size-large wp-image-480" src="https://imglink.win/image/2024/03/08/a7s4I.jpeg" alt="和Wakaba酱一起学网站制作" width="200" /></a>
 
 <a href="https://press.ustc.edu.cn" target="_blank">《和Wakaba酱一起学网站制作》 </a>
 
