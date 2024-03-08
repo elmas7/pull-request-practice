@@ -23,7 +23,7 @@
 
 ## 关联书籍
 <a href="https://press.ustc.edu.cn" target="_blank">
-<img src="https://imglink.win/image/2024/03/08/a7QXu.jpeg" alt="和Wakaba酱一起学Git" width="200" /></a>
+<img src="https://imglink.win/image/2024/03/08/a7Exs.jpeg" alt="和Wakaba酱一起学Git" width="200" /></a>
 
 <a href="https://press.ustc.edu.cn" target="_blank">《和Wakaba酱一起学Git》</a>
 
